@@ -1,0 +1,28 @@
+num:
+  8
+structure_1:
+  class: Dense
+  deep: 500
+  input_shape: 784
+structure_2:
+  class: Activation
+  function: relu
+structure_3:
+  class: dropout
+  parameter: 0.5
+structure_4:
+  class: Activation
+  function: relu
+structure_5:
+  class: dropout
+  parameter: 0.5
+structure_6:
+  class: Activation
+  function: relu
+structure_7:
+  class: Dense
+  deep: 10
+structure_8:
+  class: Activation
+  function: softmax
+
