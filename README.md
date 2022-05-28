@@ -1,6 +1,5 @@
 # digitalTwin
-&#x2708
-
+:sunny:
 
 
 ## introduction
